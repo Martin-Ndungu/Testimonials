@@ -110,7 +110,6 @@ p.section-2{
 @media screen and (max-width:780px){
   .container{
     width: 375px;
-    background: red;
     height: 100%;
     padding: 40px 20px;
     margin: 40px auto;
